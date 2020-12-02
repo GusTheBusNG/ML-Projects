@@ -1,0 +1,140 @@
+power = 2
+alpha = 3
+Iterations = 1500
+Training file: train.txt
+Test file: test.txt
+Final J: 0.3290610266265651
+FP: 3
+FN: 3
+TP: 14
+TN: 15
+Accuracy: 0.8285714285714286
+Precision: 0.8235294117647058
+Recall: 0.8235294117647058
+F1: 0.8235294117647058
+
+
+power = 3
+alpha = 3
+Iterations = 1200
+Training file: train.txt
+Test file: test.txt
+Final J: 0.3710828832336738
+FP: 3
+FN: 4
+TP: 14
+TN: 14
+Accuracy: 0.8
+Precision: 0.8235294117647058
+Recall: 0.7777777777777778
+F1: 0.8
+
+
+power = 4
+alpha = 3
+Iterations = 1200
+Training file: train.txt
+Test file: test.txt
+Final J: 0.3576010742046369
+FP: 3
+FN: 4
+TP: 14
+TN: 14
+Accuracy: 0.8
+Precision: 0.8235294117647058
+Recall: 0.7777777777777778
+F1: 0.8
+
+
+power = 5
+alpha = 3
+Iterations = 1200
+Training file: train.txt
+Test file: test.txt
+Final J: 0.3648649170053811
+FP: 3
+FN: 3
+TP: 14
+TN: 15
+Accuracy: 0.8285714285714286
+Precision: 0.8235294117647058
+Recall: 0.8235294117647058
+F1: 0.8235294117647058
+
+
+power = 6
+alpha = 3
+Iterations = 900
+Training file: train.txt
+Test file: test.txt
+Final J: 0.3565385721799915
+FP: 3
+FN: 4
+TP: 14
+TN: 14
+Accuracy: 0.8
+Precision: 0.8235294117647058
+Recall: 0.7777777777777778
+F1: 0.8
+
+
+power = 7
+alpha = 3
+Iterations = 600
+Training file: train.txt
+Test file: test.txt
+Final J: 0.3517368971597
+FP: 3
+FN: 4
+TP: 14
+TN: 14
+Accuracy: 0.8
+Precision: 0.8235294117647058
+Recall: 0.7777777777777778
+F1: 0.8
+
+power = 8
+alpha = 3
+Iterations = 400
+Training file: train.txt
+Test file: test.txt
+Final J: 0.348999429026708
+FP: 2
+FN: 4
+TP: 15
+TN: 14
+Accuracy: 0.8285714285714286
+Precision: 0.8823529411764706
+Recall: 0.7894736842105263
+F1: 0.8333333333333334
+
+
+power = 9
+alpha = 3
+Iterations = 400
+Training file: train.txt
+Test file: test.txt
+Final J: 0.3477850908510249
+FP: 2
+FN: 4
+TP: 15
+TN: 14
+Accuracy: 0.8285714285714286
+Precision: 0.8823529411764706
+Recall: 0.7894736842105263
+F1: 0.8333333333333334
+
+power = 10
+alpha = 3
+Iterations = 275
+Training file: train.txt
+Test file: test.txt
+Final J: 0.349146723690648
+FP: 2
+FN: 4
+TP: 15
+TN: 14
+Accuracy: 0.8285714285714286
+Precision: 0.8823529411764706
+Recall: 0.7894736842105263
+F1: 0.8333333333333334
